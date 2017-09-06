@@ -1,2 +1,2 @@
 # dict
-# Repository of different wordlists
+Repository with different wordlists
